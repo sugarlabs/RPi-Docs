@@ -11,7 +11,7 @@ This repository contains all the information you need to get started with runnin
 ## Setting Up Sugar on Raspberry Pi
 - [Installation Guide](src/installation.md)
 - [Configuration Guide](src/configuration.md)
-- [Setting up on Virtual Machines](src/virtual-machines.md)
+- [Setting up on Virtual Machines](src/virtual-machine.md)
 - [Setting up on Hardware](src/hardware.md)
 
 ## Running Sugar on Raspberry Pi
