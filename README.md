@@ -4,7 +4,7 @@ Welcome to the Sugar on Raspberry Pi documentation!
 This repository contains all the information you need to get started with running Sugar on Raspberry Pi as a complete package.
 
 ## Getting Started
-- [Prerequisites](installation.md)
+- [Prerequisites](src/prerequisite.md)
 - [Code of Conduct](installation.md)
 - [Contact](installation.md)
 
