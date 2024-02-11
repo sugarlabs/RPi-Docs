@@ -5,20 +5,20 @@ This repository contains all the information you need to get started with runnin
 
 ## Getting Started
 - [Prerequisites](src/prerequisite.md)
-- [Code of Conduct](installation.md)
-- [Contact](installation.md)
+- [Code of Conduct](https://github.com/sugarlabs/sugar-docs/blob/master/src/CODE_OF_CONDUCT.md)
+- [Contact](https://github.com/sugarlabs/sugar-docs/blob/master/src/contact.md)
 
 ## Setting Up Sugar on Raspberry Pi
-- [Installation Guide](installation.md)
-- [Configuration Guide](configuration.md)
-- [Setting up on Virtual Machines](virtual-machines.md)
-- [Setting up on Hardware](hardware.md)
+- [Installation Guide](src/installation.md)
+- [Configuration Guide](src/configuration.md)
+- [Setting up on Virtual Machines](src/virtual-machines.md)
+- [Setting up on Hardware](src/hardware.md)
 
 ## Running Sugar on Raspberry Pi
-- [Guide to Sugar Activities](app-testing.md)
+- [Guide to Sugar Activities]
 
 ## Improving this documentation
-- [Improving this Documentation](installation.md)
+- [Improving this Documentation](src/docs.md)
 
 
 
