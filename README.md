@@ -1,63 +1,24 @@
-# Sugar on Raspberry Pi in VMs
+# Sugar on Raspberry Pi Documentation
 
-This README provides instructions for setting up and running Sugar on a Raspberry Pi within different Virtual Machine (VM) environments.
+Welcome to the Sugar on Raspberry Pi documentation! 
+This repository contains all the information you need to get started with running Sugar on Raspberry Pi as a complete package.
 
-## Prerequisites
+## Getting Started
+- [Prerequisites](src/prerequisite.md)
+- [Code of Conduct](https://github.com/sugarlabs/sugar-docs/blob/master/src/CODE_OF_CONDUCT.md)
+- [Contact](https://github.com/sugarlabs/sugar-docs/blob/master/src/contact.md)
 
-Make sure you have the following prerequisites installed:
+## Setting Up Sugar on Raspberry Pi
+- [Installation Guide](src/installation.md)
+- [Configuration Guide](src/configuration.md)
+- [Setting up on Virtual Machines](src/virtual-machine.md)
+- [Setting up on Hardware](src/hardware.md)
 
-- Raspberry Pi hardware or emulator (such as QEMU)
-- Virtual Machine software (e.g., VirtualBox, VMware)
-- [Sugar](https://wiki.sugarlabs.org/go/Sugar) - Ensure that Sugar is installed on your Raspberry Pi or emulator.
+## Running Sugar on Raspberry Pi
+- [Guide to Sugar Activities]
 
-## Installation Steps
-
-### Linux VM
-
-1. **Set up Raspberry Pi:**
-   - If using a physical Raspberry Pi, make sure it is properly set up with an operating system (e.g., Raspbian).
-   - If using an emulator like QEMU, follow the specific instructions for setting up the Raspberry Pi emulation.
-
-2. **Install Virtual Machine Software:**
-   - Choose a Linux-compatible Virtual Machine software (e.g., VirtualBox, QEMU) and install it on your Linux system.
-
-3. **Create a Virtual Machine:**
-   - Open your Linux VM software and create a new virtual machine.
-   - Configure the virtual machine settings, ensuring it meets the requirements for running Sugar.
-
-4. **Continue with common steps 4-8.**
-
-### Windows VM
-
-1. **Set up Raspberry Pi:**
-   - If using a physical Raspberry Pi, make sure it is properly set up with an operating system (e.g., Raspbian).
-   - If using an emulator like QEMU, follow the specific instructions for setting up the Raspberry Pi emulation.
-
-2. **Install Virtual Machine Software:**
-   - Choose a Windows-compatible Virtual Machine software (e.g., VirtualBox, VMware) and install it on your Windows system.
-
-3. **Create a Virtual Machine:**
-   - Open your Windows VM software and create a new virtual machine.
-   - Configure the virtual machine settings, ensuring it meets the requirements for running Sugar.
-
-4. **Continue with common steps 4-8.**
-
-### macOS VM
-
-1. **Set up Raspberry Pi:**
-   - If using a physical Raspberry Pi, make sure it is properly set up with an operating system (e.g., Raspbian).
-   - If using an emulator like QEMU, follow the specific instructions for setting up the Raspberry Pi emulation.
-
-2. **Install Virtual Machine Software:**
-   - Choose a macOS-compatible Virtual Machine software (e.g., VirtualBox, VMware) and install it on your macOS system.
-
-3. **Create a Virtual Machine:**
-   - Open your macOS VM software and create a new virtual machine.
-   - Configure the virtual machine settings, ensuring it meets the requirements for running Sugar.
-
-4. **Continue with common steps 4-8.**
-
-## Troubleshooting
+## Improving this documentation
+- [Improving this Documentation](src/docs.md)
 
 
 
