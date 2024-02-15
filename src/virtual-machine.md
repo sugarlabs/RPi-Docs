@@ -25,7 +25,7 @@
      sudo apt update
      sudo apt install sucrose
      ```
-
+     
 7. **Configure Sugar as Default Desktop Environment**: 
    - Run the command:
      ```bash
