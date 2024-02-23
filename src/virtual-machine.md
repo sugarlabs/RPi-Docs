@@ -6,7 +6,7 @@
 2. **Install VirtualBox**: 
    - Download and install VirtualBox from the [official VirtualBox website](https://www.virtualbox.org/).
 
-3. **Create a New Virtual Machine**: 
+3. **Create a New Virtual Machine**:
    - Open VirtualBox and click on "New" to create a new virtual machine.
    - Choose a name for the virtual machine and select "Linux" as the type, and "Other Linux (64-bit)" as the version.
    - Allocate memory and create a virtual hard disk.
