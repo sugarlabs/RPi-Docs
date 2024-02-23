@@ -51,6 +51,5 @@ sudo reboot
 
 ## Step 8: Launched Sugar
 
-Once the Raspberry Pi reboots, Sugar should start automatically. 
-Dont Forget to check if the Sugar Desktop Environment is installed , and turning off auto logging in RPi-config settings. 
-If not you face any difficulties you may have to follow up with troubleshoots.
+
+After rebooting the Raspberry Pi, Sugar should start automatically. Remember to verify whether the Sugar Desktop Environment is installed and to disable auto-login in the RPi-config settings. If you encounter any difficulties, you may need to proceed with troubleshooting
