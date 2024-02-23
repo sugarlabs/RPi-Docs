@@ -1,7 +1,7 @@
 ### Setting up Raspberry Pi in VirtualBox (Windows):
 
-1. **Download Raspberry Pi OS Lite Image**: 
-   - Visit the [official Raspberry Pi website](https://www.raspberrypi.org/software/operating-systems/) and download the Raspberry Pi OS image.
+1. **Download Raspberry Pi OS Image for Desktop (Recommended) / Raspberry Pi OS Lite**: 
+   - Visit the [official Raspberry Pi website](https://www.raspberrypi.org/software/operating-systems/) and download the Raspberry Pi OS image for desktop.
 
 2. **Install VirtualBox**: 
    - Download and install VirtualBox from the [official VirtualBox website](https://www.virtualbox.org/).
@@ -14,7 +14,7 @@
 4. **Configure Virtual Machine Settings**: 
    - Select the newly created virtual machine and click on "Settings".
    - Under "System", change the boot order to boot from the virtual optical disk.
-   - Under "Storage", add the Raspberry Pi OS Lite image as the optical disk.
+   - Under "Storage", add the Raspberry Pi OS image / Raspberry Pi lite as the optical disk.
 
 5. **Boot and Install Raspberry Pi OS**: 
    - Start the virtual machine and follow the on-screen prompts to install Raspberry Pi OS.
@@ -52,8 +52,8 @@ The process is similar to VirtualBox but with slight variations in VMware. Follo
      brew install qemu
      ```
 
-2. **Download Raspberry Pi OS Lite Image**: 
-   - Download the Raspberry Pi OS Lite image from the official Raspberry Pi website.
+2. **Download Raspberry Pi OS Desktop Image(Recommended) / Raspberry Pi Lite Image**: 
+   - Download the Raspberry Pi OS Desktop image from the official Raspberry Pi website.
 
 3. **Create QEMU Virtual Machine**: 
    - Run the following command in the terminal to create a QEMU virtual machine:
@@ -87,10 +87,10 @@ The process is similar to VirtualBox but with slight variations in VMware. Follo
 
 2. **Create New Virtual Machine**:
    - Open UTM and create a new virtual machine.
-   - Choose "Linux" as the guest operating system and select the Raspberry Pi OS Lite image.
+   - Choose "Linux" as the guest operating system and select the Raspberry Pi OS image.
 
 3. **Start Virtual Machine and Install Raspberry Pi OS**:
-   - Start the virtual machine and follow the on-screen prompts to install Raspberry Pi OS Lite.
+   - Start the virtual machine and follow the on-screen prompts to install Raspberry Pi OS Desktop/Raspberry Pi Lite.
 
 4. **Install Sugar Desktop Environment**: 
    - Once Raspberry Pi OS is installed in UTM, open a terminal and run:
